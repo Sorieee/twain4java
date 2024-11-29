@@ -1,6 +1,6 @@
 ## Twain Java Library
 Java library for Windows x86 и x64. 
-
+Note: You have to use jdk x86 when you driver were 32bit, or you can't read any source.
 ## Tested on
 - [x] Kyocera Exosys M2040dn (NET, USB)
 - [x] HP MFP 1102 (NET)
